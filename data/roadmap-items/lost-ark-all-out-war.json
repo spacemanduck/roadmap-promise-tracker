@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-all-out-war",
+  "game_id": "lost-ark",
+  "title_normalised": "All-Out War",
+  "item_keys": [
+    "all-out-war"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-09-30-1",
+      "captured_at": "2025-09-30",
+      "window_as_stated": "November",
+      "window_normalised": {
+        "start": "2025-11-01",
+        "end": "2025-11-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-09-30"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "delivery": {
+    "date": "2025-11-19",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/day-of-prophecy",
+      "archived_url": "https://web.archive.org/web/20260817173308/https://www.playlostark.com/en-us/game/releases/day-of-prophecy",
+      "title": "Day of Prophecy — release page",
+      "published_at": "2025-11-18",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Release page: 'The Kurzan All-Out War event will expand into the Arkesia Total War event'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

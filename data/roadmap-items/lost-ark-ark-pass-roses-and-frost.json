@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-ark-pass-roses-and-frost",
+  "game_id": "lost-ark",
+  "title_normalised": "Ark Pass: Roses & Frost",
+  "item_keys": [
+    "ark-pass-roses-and-frost"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-04-02-1",
+      "captured_at": "2025-04-02",
+      "window_as_stated": "April",
+      "window_normalised": {
+        "start": "2025-04-01",
+        "end": "2025-04-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-04-02"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "delivery": {
+    "date": "2025-04-23",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/april-2025-update-release-notes",
+      "archived_url": "https://web.archive.org/web/20260520080128/https://www.playlostark.com/en-us/news/articles/april-2025-update-release-notes",
+      "title": "April 2025 Release Notes",
+      "published_at": "2025-04-22",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Ark Pass: Frost and Roses'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-region-merge",
+  "game_id": "lost-ark",
+  "title_normalised": "Region Merge",
+  "item_keys": [
+    "region-merge"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-09-30-1",
+      "captured_at": "2025-09-30",
+      "window_as_stated": "October",
+      "window_normalised": {
+        "start": "2025-10-01",
+        "end": "2025-10-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-09-30"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "delivery": {
+    "date": "2025-10-22",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/region-merge-update",
+      "archived_url": "https://web.archive.org/web/20251211094844/https://www.playlostark.com/en-us/news/articles/region-merge-update",
+      "title": "Region Merge Update",
+      "published_at": "2025-10-21",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "The post (21 Oct) says the merge begins during that night's weekly maintenance."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-frontier-system",
+  "game_id": "lost-ark",
+  "title_normalised": "Frontier System",
+  "item_keys": [
+    "frontier-system"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2024-12-14-1",
+      "captured_at": "2024-12-14",
+      "window_as_stated": "January 2025",
+      "window_normalised": {
+        "start": "2025-01-01",
+        "end": "2025-01-31",
+        "rule": "month"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "delivery": {
+    "date": "2025-01-22",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/frosty-fate",
+      "archived_url": "https://web.archive.org/web/20260615072927/https://www.playlostark.com/en-us/game/releases/frosty-fate",
+      "title": "Frosty Fate — release page",
+      "published_at": "2025-01-21",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "The release page has a 'Frontier System' section; the summary article names only the Karma system."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

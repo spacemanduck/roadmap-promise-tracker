@@ -1,0 +1,54 @@
+{
+  "id": "sea-of-thieves-season-17-launch",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 17 launch (The Smugglers' League)",
+  "item_keys": [
+    "season-17-launch"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2025-07-10-1",
+    "date": "2025-07-10"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2025-07-10-1",
+      "captured_at": "2025-07-10",
+      "window_as_stated": "August",
+      "window_normalised": {
+        "start": "2025-08-01",
+        "end": "2025-08-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-07-10"
+      }
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2025-10-01-1",
+      "captured_at": "2025-10-01",
+      "window_as_stated": "Thursday, August 14th",
+      "window_normalised": {
+        "start": "2025-08-14",
+        "end": "2025-08-14",
+        "rule": "exact_date",
+        "reading_note": "year 2025 inferred from publication date 2025-08-04"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2025-10-01-1",
+    "date": "2025-10-01"
+  },
+  "delivery": {
+    "date": "2025-08-14",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.5.0",
+      "archived_url": "https://web.archive.org/web/20260419185602/https://www.seaofthieves.com/release-notes/3.5.0",
+      "title": "Release Notes 3.5.0 — Smugglers' Tide",
+      "published_at": "2025-08-14",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'The Smugglers' League' with six Hideouts and the Smugglers' Route Run."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

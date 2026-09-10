@@ -1,0 +1,72 @@
+{
+  "id": "lost-ark-2026-06-22-1",
+  "game_id": "lost-ark",
+  "captured_at": "2026-06-22T20:56:48Z",
+  "url": "https://www.playlostark.com/en-us/news/articles/lost-ark-2026-roadmap-part-3",
+  "archived_url": "https://web.archive.org/web/20260622205648/https://www.playlostark.com/en-us/news/articles/lost-ark-2026-roadmap-part-3",
+  "content_hash": "sha256:676a5e7411bcf07a7931479838dc59fd2b4231bd790bb052dbbde9e935811323",
+  "source_published_at": "2026-06-22",
+  "covers": {
+    "start": "2026-07-01",
+    "end": "2026-09-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "kazeros-raid-act-1-extreme",
+      "title_as_stated": "Kazeros Raid: Act 1 Extreme",
+      "window_as_stated": "July",
+      "position": 0
+    },
+    {
+      "item_key": "paradise-season-4",
+      "title_as_stated": "Paradise Season 4",
+      "window_as_stated": "July",
+      "position": 1
+    },
+    {
+      "item_key": "solo-raid-expansion",
+      "title_as_stated": "Solo Raid Expansion",
+      "window_as_stated": "July",
+      "position": 2
+    },
+    {
+      "item_key": "summer-events-and-cosmetics",
+      "title_as_stated": "Summer Events and Cosmetics",
+      "window_as_stated": "July",
+      "position": 3
+    },
+    {
+      "item_key": "kazeros-raid-act-2-extreme",
+      "title_as_stated": "Kazeros Raid: Act 2 Extreme",
+      "window_as_stated": "August",
+      "position": 4
+    },
+    {
+      "item_key": "server-merge",
+      "title_as_stated": "Server Merge",
+      "window_as_stated": "August",
+      "position": 5
+    },
+    {
+      "item_key": "new-class-warpweaver",
+      "title_as_stated": "New Class: Warpweaver",
+      "window_as_stated": "September",
+      "position": 6
+    },
+    {
+      "item_key": "base-camp",
+      "title_as_stated": "Base Camp",
+      "window_as_stated": "September",
+      "position": 7
+    },
+    {
+      "item_key": "neria-s-dressroom",
+      "title_as_stated": "Neria's Dressroom",
+      "window_as_stated": "September",
+      "position": 8
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.95,
+  "captured_by": "backfill"
+}

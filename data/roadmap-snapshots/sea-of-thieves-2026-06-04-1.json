@@ -1,0 +1,30 @@
+{
+  "id": "sea-of-thieves-2026-06-04-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-06-04T03:11:44Z",
+  "url": "https://www.seaofthieves.com/news/this-month-march2026",
+  "archived_url": "https://web.archive.org/web/20260604031144/https://www.seaofthieves.com/news/this-month-march2026",
+  "content_hash": "sha256:5b3fe913e573b903b117bd010ee00d28821332d0bcd091fcc8324c622bf3e02f",
+  "source_published_at": "2026-03-06",
+  "covers": {
+    "start": "2026-03-01",
+    "end": "2026-03-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-19-act-1",
+      "title_as_stated": "Sea of Thieves Season 19: Act 1",
+      "window_as_stated": "Thursday, March 19th",
+      "position": 0
+    },
+    {
+      "item_key": "season-19-community-weekend",
+      "title_as_stated": "Season 19 Community Weekend",
+      "window_as_stated": "Friday, March 27th",
+      "position": 1
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-new-progression-system-paradise",
+  "game_id": "lost-ark",
+  "title_normalised": "New Progression System: Paradise",
+  "item_keys": [
+    "new-progression-system-paradise"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-07-01-1",
+      "captured_at": "2025-07-01",
+      "window_as_stated": "late July",
+      "window_normalised": {
+        "start": "2025-07-01",
+        "end": "2025-07-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-07-01; 'late July' read as the whole month (publisher's favour)"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "delivery": {
+    "date": "2025-07-23",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/welcome-to-paradise-release-notes",
+      "archived_url": "https://web.archive.org/web/20260315031217/https://www.playlostark.com/en-us/news/articles/welcome-to-paradise-release-notes",
+      "title": "Welcome to Paradise Release Notes",
+      "published_at": "2025-07-22",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

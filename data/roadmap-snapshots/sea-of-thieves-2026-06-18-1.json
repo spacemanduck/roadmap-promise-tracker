@@ -1,0 +1,30 @@
+{
+  "id": "sea-of-thieves-2026-06-18-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-06-18T18:54:45Z",
+  "url": "https://www.seaofthieves.com/news/this-month-june-2026",
+  "archived_url": "https://web.archive.org/web/20260618185445/https://www.seaofthieves.com/news/this-month-june-2026",
+  "content_hash": "sha256:d0e1d3b3add6ef87d15f0a8362539e978115832d772888b86dc3e15c9ced8d8a",
+  "source_published_at": "2026-06-05",
+  "covers": {
+    "start": "2026-06-01",
+    "end": "2026-06-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "custom-servers",
+      "title_as_stated": "Sea of Thieves Season 20: Custom Seas",
+      "window_as_stated": "Thursday, June 18th",
+      "position": 0
+    },
+    {
+      "item_key": "season-20-community-weekend",
+      "title_as_stated": "Season 20 Community Weekend",
+      "window_as_stated": "Friday, June 26th",
+      "position": 1
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

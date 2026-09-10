@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-solo-aegir-and-mokoko-bootcamp-july-2025",
+  "game_id": "lost-ark",
+  "title_normalised": "Solo Mode update and Mokoko Bootcamp (July 2025)",
+  "item_keys": [
+    "solo-aegir-and-mokoko-bootcamp-july-2025"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-07-01-1",
+      "captured_at": "2025-07-01",
+      "window_as_stated": "July",
+      "window_normalised": {
+        "start": "2025-07-01",
+        "end": "2025-07-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-07-01"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "delivery": {
+    "date": "2025-07-23",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/welcome-to-paradise-release-notes",
+      "archived_url": "https://web.archive.org/web/20260315031217/https://www.playlostark.com/en-us/news/articles/welcome-to-paradise-release-notes",
+      "title": "Welcome to Paradise Release Notes",
+      "published_at": "2025-07-22",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Aegir Solo, solo mode improvements' and 'the return of Mokoko Bootcamp'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "id": "lost-ark-2026-04-16-1",
+  "game_id": "lost-ark",
+  "captured_at": "2026-04-16T13:58:11Z",
+  "url": "https://www.playlostark.com/en-us/news/articles/march-team-update-roadmap-preview",
+  "archived_url": "https://web.archive.org/web/20260416135811/https://www.playlostark.com/en-us/news/articles/march-team-update-roadmap-preview",
+  "content_hash": "sha256:b7cca0c30d8f3e10920304824cc6267f1ff75ba79028faece4ebdd48f3cbde6c",
+  "source_published_at": "2026-03-20",
+  "covers": {
+    "start": "2026-04-01",
+    "end": "2026-06-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "shadow-raid-serca",
+      "title_as_stated": "Shadow Raid: Serca",
+      "window_as_stated": "April",
+      "position": 0
+    },
+    {
+      "item_key": "t4-advanced-ancient-equipment",
+      "title_as_stated": "T4 Advanced Ancient Equipment",
+      "window_as_stated": "April",
+      "position": 1
+    },
+    {
+      "item_key": "shadow-event-shop",
+      "title_as_stated": "Shadow Event Shop",
+      "window_as_stated": "April",
+      "position": 2
+    },
+    {
+      "item_key": "snowflake-argos-and-argos-event-shop",
+      "title_as_stated": "Snowflake Argos and Argos Event Shop",
+      "window_as_stated": "May",
+      "position": 3
+    },
+    {
+      "item_key": "kadarum-isles",
+      "title_as_stated": "Kadarum Isles",
+      "window_as_stated": "June",
+      "position": 4
+    },
+    {
+      "item_key": "abyssal-raid-horizon-cathedral",
+      "title_as_stated": "Abyssal Raid: Horizon Cathedral",
+      "window_as_stated": "June",
+      "position": 5
+    },
+    {
+      "item_key": "western-exclusive-skins-2026",
+      "title_as_stated": "Western Exclusive Skins",
+      "window_as_stated": "June",
+      "position": 6
+    },
+    {
+      "item_key": "mokoko-challenge-express-and-express-event",
+      "title_as_stated": "Mokoko Challenge Express and Express Event",
+      "window_as_stated": "June",
+      "position": 7
+    },
+    {
+      "item_key": "mokoko-bootcamp-june-2026",
+      "title_as_stated": "Mokoko Bootcamp",
+      "window_as_stated": "June",
+      "position": 8
+    },
+    {
+      "item_key": "ark-pass-june-2026",
+      "title_as_stated": "Ark Pass",
+      "window_as_stated": "June",
+      "position": 9
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.95,
+  "captured_by": "backfill"
+}

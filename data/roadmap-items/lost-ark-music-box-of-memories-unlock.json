@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-music-box-of-memories-unlock",
+  "game_id": "lost-ark",
+  "title_normalised": "Music Box of Memories unlock",
+  "item_keys": [
+    "music-box-of-memories-unlock"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2024-12-14-1",
+      "captured_at": "2024-12-14",
+      "window_as_stated": "March 2025",
+      "window_normalised": {
+        "start": "2025-03-01",
+        "end": "2025-03-31",
+        "rule": "month"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "delivery": {
+    "date": "2025-03-26",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/march-2025-release-notes",
+      "archived_url": "https://web.archive.org/web/20260512032405/https://www.playlostark.com/en-us/news/articles/march-2025-release-notes",
+      "title": "March 2025 Release Notes",
+      "published_at": "2025-03-25",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'the next chapter of the Music Box of Memories' (Music Box of Memories III)."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

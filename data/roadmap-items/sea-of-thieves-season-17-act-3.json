@@ -1,0 +1,42 @@
+{
+  "id": "sea-of-thieves-season-17-act-3",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Sea of Thieves Season 17: Act 3 (Reaper Fortresses)",
+  "item_keys": [
+    "season-17-act-3"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-01-16-1",
+    "date": "2026-01-16"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-01-16-1",
+      "captured_at": "2026-01-16",
+      "window_as_stated": "Thursday, October 16th",
+      "window_normalised": {
+        "start": "2025-10-16",
+        "end": "2025-10-16",
+        "rule": "exact_date",
+        "reading_note": "year 2025 inferred from publication date 2025-10-03"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-01-16-1",
+    "date": "2026-01-16"
+  },
+  "delivery": {
+    "date": "2025-10-16",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.5.2",
+      "archived_url": "https://web.archive.org/web/20260613155055/https://www.seaofthieves.com/release-notes/3.5.2",
+      "title": "Release Notes 3.5.2 — Smugglers' Tide: Act 3",
+      "published_at": "2025-10-16",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

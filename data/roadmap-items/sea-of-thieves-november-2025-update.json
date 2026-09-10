@@ -1,0 +1,43 @@
+{
+  "id": "sea-of-thieves-november-2025-update",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "November 2025 update (weapon switching, spatial audio)",
+  "item_keys": [
+    "november-2025-update"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-01-26-1",
+    "date": "2026-01-26"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-01-26-1",
+      "captured_at": "2026-01-26",
+      "window_as_stated": "Thursday, November 13th",
+      "window_normalised": {
+        "start": "2025-11-13",
+        "end": "2025-11-13",
+        "rule": "exact_date",
+        "reading_note": "year 2025 inferred from publication date 2025-11-07"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-01-26-1",
+    "date": "2026-01-26"
+  },
+  "delivery": {
+    "date": "2025-11-13",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.5.3",
+      "archived_url": "https://web.archive.org/web/20260419185602/https://www.seaofthieves.com/release-notes/3.5.3",
+      "title": "Release Notes 3.5.3 — Gameplay Improvements",
+      "published_at": "2025-11-13",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Improved Weapon Switching'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

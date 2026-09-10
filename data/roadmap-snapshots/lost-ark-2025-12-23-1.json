@@ -1,0 +1,78 @@
+{
+  "id": "lost-ark-2025-12-23-1",
+  "game_id": "lost-ark",
+  "captured_at": "2025-12-23T19:31:20Z",
+  "url": "https://www.playlostark.com/en-us/news/articles/2026-roadmap-part-1",
+  "archived_url": "https://web.archive.org/web/20251223193120/https://www.playlostark.com/en-us/news/articles/2026-roadmap-part-1",
+  "content_hash": "sha256:77bf5256854f6a9a7b7a77a96ec8429e18796a23532368800f6e5441287f2e33",
+  "source_published_at": "2025-12-23",
+  "covers": {
+    "start": "2026-01-01",
+    "end": "2026-04-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "nukman-s-illusion-stone",
+      "title_as_stated": "Nukman's Illusion Stone",
+      "window_as_stated": "January",
+      "position": 0
+    },
+    {
+      "item_key": "thaemine-extreme",
+      "title_as_stated": "Thaemine Extreme",
+      "window_as_stated": "January",
+      "position": 1
+    },
+    {
+      "item_key": "ark-pass-january-2026",
+      "title_as_stated": "New Ark Pass",
+      "window_as_stated": "January",
+      "position": 2
+    },
+    {
+      "item_key": "dragonknight-class",
+      "title_as_stated": "Dragonknight Class",
+      "window_as_stated": "February",
+      "position": 3
+    },
+    {
+      "item_key": "progression-events-february-2026",
+      "title_as_stated": "Next Wave of Progression Events",
+      "window_as_stated": "February",
+      "position": 4
+    },
+    {
+      "item_key": "activity-overhaul",
+      "title_as_stated": "Activity Overhaul",
+      "window_as_stated": "February",
+      "position": 5
+    },
+    {
+      "item_key": "tier-3-progression-changes",
+      "title_as_stated": "Tier 3 progression changes",
+      "window_as_stated": "February",
+      "position": 6
+    },
+    {
+      "item_key": "paradise-season-3",
+      "title_as_stated": "Paradise Season 3",
+      "window_as_stated": "March",
+      "position": 7
+    },
+    {
+      "item_key": "next-story-chapter",
+      "title_as_stated": "Next Story Chapter",
+      "window_as_stated": "March",
+      "position": 8
+    },
+    {
+      "item_key": "shadow-raid-serca",
+      "title_as_stated": "Shadow Raid",
+      "window_as_stated": "April",
+      "position": 9
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.95,
+  "captured_by": "backfill"
+}

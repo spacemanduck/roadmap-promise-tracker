@@ -1,0 +1,43 @@
+{
+  "id": "sea-of-thieves-season-18-community-weekend",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 18 Community Weekend",
+  "item_keys": [
+    "season-18-community-weekend"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-11-1",
+    "date": "2026-05-11"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-05-11-1",
+      "captured_at": "2026-05-11",
+      "window_as_stated": "Saturday, January 31st",
+      "window_normalised": {
+        "start": "2026-01-31",
+        "end": "2026-01-31",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-01-06"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-11-1",
+    "date": "2026-05-11"
+  },
+  "delivery": {
+    "date": "2026-01-31",
+    "source": {
+      "url": "https://www.seaofthieves.com/news/this-month-january2026",
+      "archived_url": "https://web.archive.org/web/20260511084406/https://www.seaofthieves.com/news/this-month-january2026",
+      "title": "This Month in Sea of Thieves: January 2026",
+      "published_at": "2026-01-06",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Dated 31 January – 2 February in the publisher's January schedule."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

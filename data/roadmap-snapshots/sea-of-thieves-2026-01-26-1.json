@@ -1,0 +1,30 @@
+{
+  "id": "sea-of-thieves-2026-01-26-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-01-26T03:56:31Z",
+  "url": "https://www.seaofthieves.com/news/this-month-november2025",
+  "archived_url": "https://web.archive.org/web/20260126035631/https://www.seaofthieves.com/news/this-month-november2025",
+  "content_hash": "sha256:f2872d045f12d11451cb82e5e8e49ab58746a604c23da28d0f51b71d10803995",
+  "source_published_at": "2025-11-07",
+  "covers": {
+    "start": "2025-11-01",
+    "end": "2025-11-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "november-2025-update",
+      "title_as_stated": "November update: weapon switching changes and Immerse spatial audio",
+      "window_as_stated": "Thursday, November 13th",
+      "position": 0
+    },
+    {
+      "item_key": "season-18-launch",
+      "title_as_stated": "Season 18",
+      "window_as_stated": "December",
+      "position": 1
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

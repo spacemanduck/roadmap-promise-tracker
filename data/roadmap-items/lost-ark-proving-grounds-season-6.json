@@ -1,0 +1,41 @@
+{
+  "id": "lost-ark-proving-grounds-season-6",
+  "game_id": "lost-ark",
+  "title_normalised": "Proving Grounds Season 6",
+  "item_keys": [
+    "proving-grounds-season-6"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2024-12-14-1",
+      "captured_at": "2024-12-14",
+      "window_as_stated": "December 2024",
+      "window_normalised": {
+        "start": "2024-12-01",
+        "end": "2024-12-31",
+        "rule": "month"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "delivery": {
+    "date": "2024-12-18",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/winter-soloist-release-news-post",
+      "archived_url": "https://web.archive.org/web/20260416143556/https://www.playlostark.com/en-us/news/articles/winter-soloist-release-news-post",
+      "title": "Winter Soloist Release Notes",
+      "published_at": "2024-12-17",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hunt-showdown-1896-more-players-technical-test",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Technical test: more players in a single Mission",
+  "item_keys": [
+    "more-players-technical-test"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "very soon",
+      "window_normalised": null
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2026-02-03",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/more-hunters-per-match-being-tested",
+      "archived_url": "https://web.archive.org/web/20260329010153/https://www.huntshowdown.com/news/more-hunters-per-match-being-tested",
+      "title": "More Hunters Per Match Being Tested",
+      "published_at": "2026-02-03",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "The post says the feature 'is about to enter its testing phase' on live servers."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

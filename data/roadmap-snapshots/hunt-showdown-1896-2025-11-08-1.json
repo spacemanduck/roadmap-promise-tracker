@@ -1,0 +1,108 @@
+{
+  "id": "hunt-showdown-1896-2025-11-08-1",
+  "game_id": "hunt-showdown-1896",
+  "captured_at": "2025-11-08T19:42:52Z",
+  "url": "https://www.huntshowdown.com/news/roadmap-2026-looking-back-into-the-future-of-hunt-showdown-1896",
+  "archived_url": "https://web.archive.org/web/20251108194252/https://www.huntshowdown.com/news/roadmap-2026-looking-back-into-the-future-of-hunt-showdown-1896",
+  "content_hash": "sha256:a25460d81fd324c64f32e4b695a94c2ce6b2f98aced8932eace3ac3119a53b6e",
+  "source_published_at": "2025-11-07",
+  "covers": {
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "new-experimental-firearm",
+      "title_as_stated": "A new, experimental firearm that harnesses a primal and destructive force",
+      "window_as_stated": "2026",
+      "position": 0
+    },
+    {
+      "item_key": "inferno-return",
+      "title_as_stated": "Return of the Wildcard Condition, Inferno",
+      "window_as_stated": "2026",
+      "position": 1
+    },
+    {
+      "item_key": "tier-3-hunters-return",
+      "title_as_stated": "Tier 3 Hunters returning in phases",
+      "window_as_stated": "2026",
+      "position": 2
+    },
+    {
+      "item_key": "legends-return-continues",
+      "title_as_stated": "Legends Return initiative continues, bringing back early legacy content with fresh twists",
+      "window_as_stated": "2026",
+      "position": 3
+    },
+    {
+      "item_key": "bileweavers-return",
+      "title_as_stated": "Bileweavers return to the bayou",
+      "window_as_stated": "2026",
+      "position": 4
+    },
+    {
+      "item_key": "tarot-cards-permanent",
+      "title_as_stated": "Tarot Cards become a permanent feature",
+      "window_as_stated": "2026",
+      "position": 5
+    },
+    {
+      "item_key": "shredder-return",
+      "title_as_stated": "The Shredder brought back in limited form after being rebalanced",
+      "window_as_stated": "2026",
+      "position": 6
+    },
+    {
+      "item_key": "lunar-new-year-2026-event",
+      "title_as_stated": "2026 Lunar New Year multi-layered Event with new, storied activities",
+      "window_as_stated": "2026 Lunar New Year",
+      "position": 7
+    },
+    {
+      "item_key": "seasonal-model",
+      "title_as_stated": "A true Seasonal Model",
+      "window_as_stated": "2026",
+      "position": 8
+    },
+    {
+      "item_key": "experimental-game-modes",
+      "title_as_stated": "Experiments with new gameplay ideas in limited, experimental game modes",
+      "window_as_stated": "2026",
+      "position": 9
+    },
+    {
+      "item_key": "more-players-per-mission",
+      "title_as_stated": "Support more players in a single Mission",
+      "window_as_stated": "2026",
+      "position": 10
+    },
+    {
+      "item_key": "more-players-technical-test",
+      "title_as_stated": "An upcoming technical test (more players in a single Mission)",
+      "window_as_stated": "very soon",
+      "position": 11
+    },
+    {
+      "item_key": "social-features",
+      "title_as_stated": "New social features to help you connect and play with friends",
+      "window_as_stated": "2026",
+      "position": 12
+    },
+    {
+      "item_key": "tutorial-challenges-and-bot-difficulty",
+      "title_as_stated": "New tutorial challenges and scalable bot difficulty",
+      "window_as_stated": "2026",
+      "position": 13
+    },
+    {
+      "item_key": "matchmaking-tests-and-regional-servers",
+      "title_as_stated": "A series of matchmaking tests and new experimental features, with improvements to regional servers",
+      "window_as_stated": "throughout 2026",
+      "position": 14
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.8,
+  "captured_by": "backfill"
+}

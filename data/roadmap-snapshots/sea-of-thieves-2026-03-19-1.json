@@ -1,0 +1,24 @@
+{
+  "id": "sea-of-thieves-2026-03-19-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-03-19T15:00:27Z",
+  "url": "https://www.seaofthieves.com/news/this-month-december2025",
+  "archived_url": "https://web.archive.org/web/20260319150027/https://www.seaofthieves.com/news/this-month-december2025",
+  "content_hash": "sha256:c40794aaf0b73f4d73e0cd7618ce656027e98a8a591b44d2ad17b063486e0b58",
+  "source_published_at": "2025-12-04",
+  "covers": {
+    "start": "2025-12-01",
+    "end": "2025-12-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-18-launch",
+      "title_as_stated": "Season 18 Launch",
+      "window_as_stated": "Thursday, December 11th",
+      "position": 0
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "lost-ark-kazeros-raid-denouement",
+  "game_id": "lost-ark",
+  "title_normalised": "Kazeros Raid: Denouement (The Last Day)",
+  "item_keys": [
+    "kazeros-raid-denouement"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-07-01-1",
+      "captured_at": "2025-07-01",
+      "window_as_stated": "Q4 2025",
+      "window_normalised": {
+        "start": "2025-10-01",
+        "end": "2025-12-31",
+        "rule": "calendar_quarter"
+      }
+    },
+    {
+      "snapshot_id": "lost-ark-2025-09-30-1",
+      "captured_at": "2025-09-30",
+      "window_as_stated": "November",
+      "window_normalised": {
+        "start": "2025-11-01",
+        "end": "2025-11-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-09-30"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "delivery": {
+    "date": "2025-11-19",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/day-of-prophecy-release-notes",
+      "archived_url": "https://web.archive.org/web/20260119203900/https://www.playlostark.com/en-us/news/articles/day-of-prophecy-release-notes",
+      "title": "Day of Prophecy Release Notes",
+      "published_at": "2025-11-18",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Kazeros Raid Denouement - Final Day'."
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "Listed as 'Kazeros Raid' for Q4 2025 in the July roadmap and as 'Kazeros Raid Denouement - The Last Day' for November in the September roadmap. The narrowing is recorded; it is not a slip."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hunt-showdown-1896-matchmaking-tests-and-regional-servers",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Matchmaking tests and regional server improvements",
+  "item_keys": [
+    "matchmaking-tests-and-regional-servers"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "throughout 2026",
+      "window_normalised": null
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The Fair Play Task Force roadmap update (3 June 2026) describes ping-based matchmaking work in progress. Tracked, but 'throughout 2026' is read as the year and there is no single delivery to record."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sea-of-thieves-2026-05-11-2",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-05-11T08:44:06Z",
+  "url": "https://www.seaofthieves.com/news/this-month-february2026",
+  "archived_url": "https://web.archive.org/web/20260511084406/https://www.seaofthieves.com/news/this-month-february2026",
+  "content_hash": "sha256:ec7ccf1bd58e8ef33b78cf515fa1f5add28ef8903631ba998921db0072e94af9",
+  "source_published_at": "2026-02-05",
+  "covers": {
+    "start": "2026-02-01",
+    "end": "2026-02-28"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-18-act-3",
+      "title_as_stated": "Sea of Thieves Season 18: Act 3 (Ashen Garrisons)",
+      "window_as_stated": "Thursday, March 5th",
+      "position": 0
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

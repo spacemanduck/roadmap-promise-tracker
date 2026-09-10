@@ -1,0 +1,33 @@
+{
+  "id": "sea-of-thieves-emporium-stock-rotation",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Pirate Emporium stock rotation",
+  "item_keys": [
+    "emporium-stock-rotation"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-04-03-1",
+    "date": "2026-04-03"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-04-03-1",
+      "captured_at": "2026-04-03",
+      "window_as_stated": "April",
+      "window_normalised": {
+        "start": "2026-04-01",
+        "end": "2026-04-30",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-03-30"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-04-03-1",
+    "date": "2026-04-03"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The March 2026 Community Direct said Emporium stock rotation 'will be arriving in April'. The April release notes (3.7.1) read for this record describe new Black Market stock but do not name Emporium stock rotation, so no delivery is recorded. Needs a human check."
+}

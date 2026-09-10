@@ -1,0 +1,33 @@
+{
+  "id": "lost-ark-daily-activity-updates-item-level-1720",
+  "game_id": "lost-ark",
+  "title_normalised": "Daily Activity Updates (Item Level 1720)",
+  "item_keys": [
+    "daily-activity-updates-item-level-1720"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-09-30-1",
+      "captured_at": "2025-09-30",
+      "window_as_stated": "November",
+      "window_normalised": {
+        "start": "2025-11-01",
+        "end": "2025-11-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-09-30"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The November release page states the Item Level 1720 requirement for Act 4 Hard mode; the new Item Level 1720 daily activities (Kratios, Kurzan Front, Ebony Cube, Chaos Gate) are not named in the sections read. Needs a human check."
+}

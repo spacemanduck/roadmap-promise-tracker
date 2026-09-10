@@ -1,0 +1,41 @@
+{
+  "id": "hunt-showdown-1896-inferno-return",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Inferno Wildcard Condition returns",
+  "item_keys": [
+    "inferno-return"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2026-04-15",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/inferno-is-live-now",
+      "archived_url": "https://web.archive.org/web/20260720004422/https://www.huntshowdown.com/news/inferno-is-live-now",
+      "title": "Inferno is Live Now",
+      "published_at": "2026-04-15",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "game_id": "lost-ark",
+  "game_name": "Lost Ark",
+  "publisher_id": "amazon-game-studios",
+  "publisher_name": "Amazon Game Studios",
+  "roadmap_style": "periodic_posts",
+  "roadmap_urls": [
+    {
+      "url": "https://www.playlostark.com/en-us/news?tag=updates",
+      "kind": "post",
+      "selector": "main",
+      "note": "Roadmap posts are titled 'Lost Ark <year> Roadmap – Part N' and appear in the news index; the weekly capture reads the newest roadmap post linked from here."
+    }
+  ],
+  "patch_note_urls": [
+    {
+      "url": "https://www.playlostark.com/en-us/news?tag=release-notes",
+      "kind": "index",
+      "selector": "main a[href*='/news/articles/']",
+      "title_pattern": "release notes"
+    },
+    {
+      "url": "https://www.playlostark.com/en-us/news?tag=updates",
+      "kind": "index",
+      "selector": "main a[href*='/news/articles/']",
+      "title_pattern": "release notes|update|merge"
+    }
+  ],
+  "capture_notes": "Roadmap posts group items under month headings; the heading is the stated window unless a phrase next to the item is more specific (e.g. 'late July', 'Q4 2025'). Release-notes articles are published the day before downtime and state the go-live date; that date is the delivery date. The February 2026 class was announced as 'Dragonknight' and shipped as 'Guardianknight'. The publisher announced on 12 August 2026 that Amazon Game Studios will end its Western live service in early 2027 with Smilegate taking over.",
+  "extraction_model": "claude-haiku-4-5",
+  "tracked_since": "2024-12-14",
+  "why_tracked": "Publishes a month-by-month roadmap post three or four times a year, dated release notes for every update, and a 'Team Update' post whenever a plan changes — the clearest promise-then-receipt trail of any live-service game checked."
+}

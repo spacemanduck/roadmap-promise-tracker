@@ -1,0 +1,24 @@
+{
+  "id": "sea-of-thieves-2025-12-03-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2025-12-03T06:11:46Z",
+  "url": "https://www.seaofthieves.com/news/this-month-september2025",
+  "archived_url": "https://web.archive.org/web/20251203061146/https://www.seaofthieves.com/news/this-month-september2025",
+  "content_hash": "sha256:45773829dbe8ad747d14488412f3e728e45d1628172f765993876ce63dacba41",
+  "source_published_at": "2025-09-04",
+  "covers": {
+    "start": "2025-09-01",
+    "end": "2025-09-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-17-act-2",
+      "title_as_stated": "Sea of Thieves Season 17: Act 2",
+      "window_as_stated": "Thursday, September 18th",
+      "position": 0
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

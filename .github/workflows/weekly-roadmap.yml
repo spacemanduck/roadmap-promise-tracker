@@ -1,0 +1,76 @@
+name: Weekly roadmap capture
+
+on:
+  schedule:
+    - cron: "0 6 * * 2" # Tuesday 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "Only capture this game_id (optional)"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: weekly-roadmap
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Capture roadmaps (fetch → archive → extract → diff)
+        run: npx tsx scripts/capture.ts ${{ inputs.game && format('--game {0}', inputs.game) || '' }}
+        continue-on-error: true
+        id: capture
+
+      - name: Match deliveries against new patch notes
+        run: npx tsx scripts/match-delivery.ts ${{ inputs.game && format('--game {0}', inputs.game) || '' }}
+        continue-on-error: true
+        id: match
+
+      - name: Validate data
+        run: npx tsx scripts/validate.ts
+
+      - name: Confirm no images were written anywhere in the repo
+        run: |
+          if git status --porcelain | grep -Ei '\.(png|jpe?g|gif|webp|bmp|avif|svg)$'; then
+            echo "image files staged — refusing"; exit 1
+          fi
+
+      - name: Week number
+        id: week
+        run: echo "week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
+
+      - name: Open PR
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: roadmap-capture/${{ steps.week.outputs.week }}
+          title: "Roadmap capture — week ${{ steps.week.outputs.week }}"
+          commit-message: "Roadmap capture — week ${{ steps.week.outputs.week }}"
+          body-path: reports/capture-report.md
+          add-paths: |
+            data/**/*.json
+          labels: roadmap-capture
+          delete-branch: true
+
+      - name: Heartbeat
+        if: always() && steps.capture.outcome == 'success' && steps.match.outcome == 'success'
+        env:
+          HEARTBEAT_URL: ${{ secrets.ROADMAP_HEARTBEAT_URL }}
+        run: |
+          if [ -n "$HEARTBEAT_URL" ]; then curl -fsS --retry 3 "$HEARTBEAT_URL" > /dev/null; else echo "no heartbeat URL configured"; fi

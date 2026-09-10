@@ -1,0 +1,31 @@
+{
+  "id": "hunt-showdown-1896-tier-3-hunters-return",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Tier 3 Hunters return in phases",
+  "item_keys": [
+    "tier-3-hunters-return"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null
+}

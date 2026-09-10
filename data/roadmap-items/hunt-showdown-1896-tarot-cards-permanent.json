@@ -1,0 +1,32 @@
+{
+  "id": "hunt-showdown-1896-tarot-cards-permanent",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Tarot Cards become permanent",
+  "item_keys": [
+    "tarot-cards-permanent"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "Tarot Cards appear in the Devil's Trail (18 March 2026), Inferno (15 April) and Road to Hell (9 June) posts as event content. No post read states that they are now permanent, so no delivery is recorded."
+}

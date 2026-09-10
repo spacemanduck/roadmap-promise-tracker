@@ -1,0 +1,44 @@
+{
+  "id": "sea-of-thieves-season-18-act-3",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 18: Act 3 (Ashen Garrisons)",
+  "item_keys": [
+    "season-18-act-3"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-11-2",
+    "date": "2026-05-11"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-05-11-2",
+      "captured_at": "2026-05-11",
+      "window_as_stated": "Thursday, March 5th",
+      "window_normalised": {
+        "start": "2026-03-05",
+        "end": "2026-03-05",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-02-05"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-11-2",
+    "date": "2026-05-11"
+  },
+  "delivery": {
+    "date": "2026-03-05",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.6.2",
+      "archived_url": "https://web.archive.org/web/20260408183321/https://www.seaofthieves.com/release-notes/3.6.2",
+      "title": "Release Notes 3.6.2 — Secrets of the Banished: Act 3",
+      "published_at": "2026-03-05",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Ashen Garrisons'."
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The February 2026 schedule was edited on 13 February: 'Act 3 of Season 18 has been pushed back two weeks to launch on March 5th' from 19 February. The pre-edit version of the post is not archived, so only the revised date is in the window history."
+}

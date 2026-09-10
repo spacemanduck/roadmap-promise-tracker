@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-western-exclusive-skins-2025",
+  "game_id": "lost-ark",
+  "title_normalised": "Western Exclusive Skins (2025)",
+  "item_keys": [
+    "western-exclusive-skins-2025"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-04-02-1",
+      "captured_at": "2025-04-02",
+      "window_as_stated": "May",
+      "window_normalised": {
+        "start": "2025-05-01",
+        "end": "2025-05-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-04-02"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "delivery": {
+    "date": "2025-06-25",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/june-update-2025",
+      "archived_url": "https://web.archive.org/web/20260608202026/https://www.playlostark.com/en-us/news/articles/june-update-2025",
+      "title": "June Update Release Notes",
+      "published_at": "2025-06-24",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Shipped as the 'Mythic Desert Collection (Western Exclusive)' in the June update; the roadmap said May."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "lost-ark-2025-09-30-1",
+  "game_id": "lost-ark",
+  "captured_at": "2025-09-30T16:29:22Z",
+  "url": "https://www.playlostark.com/en-us/news/articles/2025-roadmap-part-4",
+  "archived_url": "https://web.archive.org/web/20250930162922/https://www.playlostark.com/en-us/news/articles/2025-roadmap-part-4",
+  "content_hash": "sha256:4539325cca1eb829d3c125a7751f37a1c02f460ad6d1c5d8da7379745dbe663f",
+  "source_published_at": "2025-09-30",
+  "covers": {
+    "start": "2025-10-01",
+    "end": "2025-12-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "region-merge",
+      "title_as_stated": "Region Merge",
+      "window_as_stated": "October",
+      "position": 0
+    },
+    {
+      "item_key": "kazeros-raid-prelude-destined-trajectory",
+      "title_as_stated": "Kazeros Raid Prelude: Destined Trajectory",
+      "window_as_stated": "October",
+      "position": 1
+    },
+    {
+      "item_key": "ark-pass-october-2025",
+      "title_as_stated": "Ark Pass (Mist Knight skins, cat mounts, cat pets)",
+      "window_as_stated": "October",
+      "position": 2
+    },
+    {
+      "item_key": "lucky-box-event",
+      "title_as_stated": "Lucky Box event",
+      "window_as_stated": "October",
+      "position": 3
+    },
+    {
+      "item_key": "balance-patch-october-2025",
+      "title_as_stated": "Balance Patch",
+      "window_as_stated": "October",
+      "position": 4
+    },
+    {
+      "item_key": "proving-grounds-season-7",
+      "title_as_stated": "Proving Grounds Season 7",
+      "window_as_stated": "October",
+      "position": 5
+    },
+    {
+      "item_key": "kazeros-raid-act-4",
+      "title_as_stated": "Kazeros Raid: Act 4",
+      "window_as_stated": "November",
+      "position": 6
+    },
+    {
+      "item_key": "kazeros-raid-denouement",
+      "title_as_stated": "Kazeros Raid Denouement - The Last Day",
+      "window_as_stated": "November",
+      "position": 7
+    },
+    {
+      "item_key": "ark-grid-system",
+      "title_as_stated": "Ark Grid System",
+      "window_as_stated": "November",
+      "position": 8
+    },
+    {
+      "item_key": "progression-events-november-2025",
+      "title_as_stated": "New Progression Events (Kazeros Challenge event and Express Event)",
+      "window_as_stated": "November",
+      "position": 9
+    },
+    {
+      "item_key": "mokoko-bootcamp-november-2025",
+      "title_as_stated": "Mokoko Bootcamp",
+      "window_as_stated": "November",
+      "position": 10
+    },
+    {
+      "item_key": "daily-activity-updates-item-level-1720",
+      "title_as_stated": "Daily Activity Updates (Item Level 1720)",
+      "window_as_stated": "November",
+      "position": 11
+    },
+    {
+      "item_key": "all-out-war",
+      "title_as_stated": "All-Out War",
+      "window_as_stated": "November",
+      "position": 12
+    },
+    {
+      "item_key": "paradise-season-2",
+      "title_as_stated": "Paradise Season 2",
+      "window_as_stated": "November",
+      "position": 13
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

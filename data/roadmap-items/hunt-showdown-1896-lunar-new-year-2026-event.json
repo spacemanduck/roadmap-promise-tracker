@@ -1,0 +1,39 @@
+{
+  "id": "hunt-showdown-1896-lunar-new-year-2026-event",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "2026 Lunar New Year multi-layered Event",
+  "item_keys": [
+    "lunar-new-year-2026-event"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026 Lunar New Year",
+      "window_normalised": null
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2026-02-10",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/lunar-new-year-story-challenge-end-of-event-changes",
+      "archived_url": "https://web.archive.org/web/20260401143217/https://www.huntshowdown.com/news/lunar-new-year-story-challenge-end-of-event-changes",
+      "title": "Lunar New Year Story Challenge & end of event changes!",
+      "published_at": "2026-02-09",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "The 'Game of Skill' Story Challenge released on 10 February 2026."
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "'2026 Lunar New Year' is an event name, not a date, so the rubric records no window; the delivery is shown without an on-time judgement."
+}

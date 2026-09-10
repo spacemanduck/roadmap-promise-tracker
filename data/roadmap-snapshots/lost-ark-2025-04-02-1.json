@@ -1,0 +1,78 @@
+{
+  "id": "lost-ark-2025-04-02-1",
+  "game_id": "lost-ark",
+  "captured_at": "2025-04-02T16:31:24Z",
+  "url": "https://www.playlostark.com/en-us/news/articles/2025-roadmap-part-2",
+  "archived_url": "https://web.archive.org/web/20250402163124/https://www.playlostark.com/en-us/news/articles/2025-roadmap-part-2",
+  "content_hash": "sha256:ad9deb5a1200f324f385f2fab5d0f5610d634ab0c729eb20a530439202af3c2b",
+  "source_published_at": "2025-04-02",
+  "covers": {
+    "start": "2025-04-01",
+    "end": "2025-06-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "progression-events-april-2025",
+      "title_as_stated": "Progression Events: Storm the Abyss Event and Road to Act 3 Event",
+      "window_as_stated": "April",
+      "position": 0
+    },
+    {
+      "item_key": "base-build-update",
+      "title_as_stated": "Base Build Update",
+      "window_as_stated": "April",
+      "position": 1
+    },
+    {
+      "item_key": "ark-pass-roses-and-frost",
+      "title_as_stated": "Ark Pass: Roses & Frost",
+      "window_as_stated": "April",
+      "position": 2
+    },
+    {
+      "item_key": "new-continent-rimeria",
+      "title_as_stated": "New Continent - Rimeria",
+      "window_as_stated": "May",
+      "position": 3
+    },
+    {
+      "item_key": "kazeros-raid-act-3-prelude",
+      "title_as_stated": "Kazeros Raid Act 3 Prelude",
+      "window_as_stated": "May",
+      "position": 4
+    },
+    {
+      "item_key": "k-pop-skins",
+      "title_as_stated": "K-Pop Skins",
+      "window_as_stated": "May",
+      "position": 5
+    },
+    {
+      "item_key": "kazeros-raid-act-3",
+      "title_as_stated": "Kazeros Raid Act 3",
+      "window_as_stated": "June",
+      "position": 6
+    },
+    {
+      "item_key": "kazeros-raid-act-3-postlude",
+      "title_as_stated": "Kazeros Raid Act 3 Postlude",
+      "window_as_stated": "June",
+      "position": 7
+    },
+    {
+      "item_key": "western-exclusive-skins-2025",
+      "title_as_stated": "Western Exclusive Skins",
+      "window_as_stated": "May",
+      "position": 8
+    },
+    {
+      "item_key": "yornujan-island",
+      "title_as_stated": "Yornujan Island",
+      "window_as_stated": "June",
+      "position": 9
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

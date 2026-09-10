@@ -1,0 +1,33 @@
+{
+  "id": "lost-ark-t4-advanced-ancient-equipment",
+  "game_id": "lost-ark",
+  "title_normalised": "T4 Advanced Ancient Equipment",
+  "item_keys": [
+    "t4-advanced-ancient-equipment"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-04-16-1",
+      "captured_at": "2026-04-16",
+      "window_as_stated": "April",
+      "window_normalised": {
+        "start": "2026-04-01",
+        "end": "2026-04-30",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-03-20"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The April 2026 notes describe 'new Tier 4 progression with Destined Tremor Gear'. Whether that is the 'T4 Advanced Ancient Equipment' the roadmap named is not stated. Needs a human check."
+}

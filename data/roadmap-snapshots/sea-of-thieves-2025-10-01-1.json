@@ -1,0 +1,30 @@
+{
+  "id": "sea-of-thieves-2025-10-01-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2025-10-01T02:40:27Z",
+  "url": "https://www.seaofthieves.com/news/this-month-august2025",
+  "archived_url": "https://web.archive.org/web/20251001024027/https://www.seaofthieves.com/news/this-month-august2025",
+  "content_hash": "sha256:f47424467763f6f05c0ec2185ba7d9563ad610c1d9576ac495a37eb10fe34d63",
+  "source_published_at": "2025-08-04",
+  "covers": {
+    "start": "2025-08-01",
+    "end": "2025-08-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-17-launch",
+      "title_as_stated": "Season 17 Launch",
+      "window_as_stated": "Thursday, August 14th",
+      "position": 0
+    },
+    {
+      "item_key": "season-17-community-weekend",
+      "title_as_stated": "Season 17 Community Weekend",
+      "window_as_stated": "Saturday, August 30th",
+      "position": 1
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sea-of-thieves-season-19-community-weekend",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 19 Community Weekend",
+  "item_keys": [
+    "season-19-community-weekend"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-04-1",
+    "date": "2026-06-04"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-06-04-1",
+      "captured_at": "2026-06-04",
+      "window_as_stated": "Friday, March 27th",
+      "window_normalised": {
+        "start": "2026-03-27",
+        "end": "2026-03-27",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-03-06"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-04-1",
+    "date": "2026-06-04"
+  },
+  "delivery": {
+    "date": "2026-03-27",
+    "source": {
+      "url": "https://www.seaofthieves.com/news/this-month-march2026",
+      "archived_url": "https://web.archive.org/web/20260604031144/https://www.seaofthieves.com/news/this-month-march2026",
+      "title": "This Month in Sea of Thieves: March 2026",
+      "published_at": "2026-03-06",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Dated 27–30 March in the publisher's March schedule."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

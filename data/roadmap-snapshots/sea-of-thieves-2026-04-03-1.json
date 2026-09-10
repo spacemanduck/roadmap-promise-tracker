@@ -1,0 +1,36 @@
+{
+  "id": "sea-of-thieves-2026-04-03-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-04-03T02:28:42Z",
+  "url": "https://www.seaofthieves.com/news/community-direct-march2026",
+  "archived_url": "https://web.archive.org/web/20260403022842/https://www.seaofthieves.com/news/community-direct-march2026",
+  "content_hash": "sha256:6dcfe273bcaf28593b4b96b6b0b1d9c9347f3f70975065dc4936606c9e158f38",
+  "source_published_at": "2026-03-30",
+  "covers": {
+    "start": "2026-03-30",
+    "end": "2026-09-30"
+  },
+  "items_extracted": [
+    {
+      "item_key": "emporium-stock-rotation",
+      "title_as_stated": "Pirate Emporium stock rotation",
+      "window_as_stated": "April",
+      "position": 0
+    },
+    {
+      "item_key": "custom-servers",
+      "title_as_stated": "Season 20: Custom Seas, free to play for every Sea of Thieves player",
+      "window_as_stated": "later this year",
+      "position": 1
+    },
+    {
+      "item_key": "season-pass-50-levels",
+      "title_as_stated": "Season Pass restructured to 50 levels with a star prize",
+      "window_as_stated": "no stated window",
+      "position": 2
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.85,
+  "captured_by": "backfill"
+}

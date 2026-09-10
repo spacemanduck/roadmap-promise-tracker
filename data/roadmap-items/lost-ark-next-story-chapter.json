@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-next-story-chapter",
+  "game_id": "lost-ark",
+  "title_normalised": "Next Story Chapter",
+  "item_keys": [
+    "next-story-chapter"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-12-23-1",
+      "captured_at": "2025-12-23",
+      "window_as_stated": "March",
+      "window_normalised": {
+        "start": "2026-03-01",
+        "end": "2026-03-31",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2025-12-23"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "delivery": {
+    "date": "2026-03-11",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/ends-of-the-abyss",
+      "archived_url": "https://web.archive.org/web/20260513154201/https://www.playlostark.com/en-us/news/articles/ends-of-the-abyss",
+      "title": "Ends of the Abyss Release Notes",
+      "published_at": "2026-03-10",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'the epic conclusion to the Kazeros storyline'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

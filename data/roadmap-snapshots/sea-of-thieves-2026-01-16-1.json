@@ -1,0 +1,24 @@
+{
+  "id": "sea-of-thieves-2026-01-16-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-01-16T04:04:07Z",
+  "url": "https://www.seaofthieves.com/news/this-month-october2025",
+  "archived_url": "https://web.archive.org/web/20260116040407/https://www.seaofthieves.com/news/this-month-october2025",
+  "content_hash": "sha256:039e1a4e3f809252d717e9254eb71f19cd7f5d19537301f20a9b4b9b3b943dba",
+  "source_published_at": "2025-10-03",
+  "covers": {
+    "start": "2025-10-01",
+    "end": "2025-10-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-17-act-3",
+      "title_as_stated": "Sea of Thieves Season 17: Act 3 (Reaper Fortresses)",
+      "window_as_stated": "Thursday, October 16th",
+      "position": 0
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

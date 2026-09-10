@@ -1,0 +1,42 @@
+{
+  "id": "sea-of-thieves-season-19-act-1",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Sea of Thieves Season 19: Act 1",
+  "item_keys": [
+    "season-19-act-1"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-04-1",
+    "date": "2026-06-04"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-06-04-1",
+      "captured_at": "2026-06-04",
+      "window_as_stated": "Thursday, March 19th",
+      "window_normalised": {
+        "start": "2026-03-19",
+        "end": "2026-03-19",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-03-06"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-04-1",
+    "date": "2026-06-04"
+  },
+  "delivery": {
+    "date": "2026-03-19",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.7.0",
+      "archived_url": "https://web.archive.org/web/20260624143923/https://www.seaofthieves.com/release-notes/3.7.0",
+      "title": "Release Notes 3.7.0 — Improved Faction Battles",
+      "published_at": "2026-03-19",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

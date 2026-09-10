@@ -1,0 +1,65 @@
+{
+  "id": "sea-of-thieves-custom-servers",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Custom Servers / Custom Seas",
+  "item_keys": [
+    "custom-servers"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2025-07-10-1",
+    "date": "2025-07-10"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2025-07-10-1",
+      "captured_at": "2025-07-10",
+      "window_as_stated": "early 2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-04-30",
+        "rule": "early_year"
+      }
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2026-04-03-1",
+      "captured_at": "2026-04-03",
+      "window_as_stated": "later this year",
+      "window_normalised": {
+        "start": "2026-03-30",
+        "end": "2026-12-31",
+        "rule": "rest_of_year",
+        "reading_note": "'later this year' read as 2026-03-30 to 2026-12-31"
+      }
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2026-06-18-1",
+      "captured_at": "2026-06-18",
+      "window_as_stated": "Thursday, June 18th",
+      "window_normalised": {
+        "start": "2026-06-18",
+        "end": "2026-06-18",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-06-05"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-18-1",
+    "date": "2026-06-18"
+  },
+  "delivery": {
+    "date": "2026-06-18",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.8.0",
+      "archived_url": "https://web.archive.org/web/20260721165731/https://www.seaofthieves.com/release-notes/3.8.0",
+      "title": "Release Notes 3.8.0 — Custom Seas",
+      "published_at": "2026-06-18",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Shipped as 'Custom Seas', free to all players; announced in July 2025 as a subscription feature for early 2026."
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "Announced in the July 2025 Community Direct as a subscription feature for early 2026; the March 2026 Community Direct restated it as Custom Seas, free to all, 'later this year'; it shipped with Season 20 on 18 June 2026. Against the original early-2026 window (ending 30 April) the delivery was 49 days late; against the restated window it was on time. Whether free-instead-of-subscription is a scope change is a human judgement and no override has been set."
+}

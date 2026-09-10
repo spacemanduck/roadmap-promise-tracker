@@ -1,0 +1,54 @@
+{
+  "id": "sea-of-thieves-season-17-community-weekend",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 17's Community Weekend",
+  "item_keys": [
+    "season-17-community-weekend"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2025-07-10-1",
+    "date": "2025-07-10"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2025-07-10-1",
+      "captured_at": "2025-07-10",
+      "window_as_stated": "early in August",
+      "window_normalised": {
+        "start": "2025-08-01",
+        "end": "2025-08-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-07-10; 'early August' read as the whole month (publisher's favour)"
+      }
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2025-10-01-1",
+      "captured_at": "2025-10-01",
+      "window_as_stated": "Saturday, August 30th",
+      "window_normalised": {
+        "start": "2025-08-30",
+        "end": "2025-08-30",
+        "rule": "exact_date",
+        "reading_note": "year 2025 inferred from publication date 2025-08-04"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2025-10-01-1",
+    "date": "2025-10-01"
+  },
+  "delivery": {
+    "date": "2025-08-30",
+    "source": {
+      "url": "https://www.seaofthieves.com/news/this-month-august2025",
+      "archived_url": "https://web.archive.org/web/20251001024027/https://www.seaofthieves.com/news/this-month-august2025",
+      "title": "This Month in Sea of Thieves: August 2025",
+      "published_at": "2025-08-04",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Dated 30 August – 1 September in the publisher's August schedule."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

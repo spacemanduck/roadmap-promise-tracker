@@ -1,0 +1,60 @@
+{
+  "id": "lost-ark-2025-07-01-1",
+  "game_id": "lost-ark",
+  "captured_at": "2025-07-01T20:28:35Z",
+  "url": "https://www.playlostark.com/en-us/news/articles/2025-roadmap-part-3",
+  "archived_url": "https://web.archive.org/web/20250701202835/https://www.playlostark.com/en-us/news/articles/2025-roadmap-part-3",
+  "content_hash": "sha256:363c782938586884f43ca8c1006dadb9f569a2acad1540fed1faa217e8b73d8e",
+  "source_published_at": "2025-07-01",
+  "covers": {
+    "start": "2025-07-01",
+    "end": "2025-12-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "new-progression-system-paradise",
+      "title_as_stated": "New Progression System: Paradise",
+      "window_as_stated": "late July",
+      "position": 0
+    },
+    {
+      "item_key": "solo-aegir-and-mokoko-bootcamp-july-2025",
+      "title_as_stated": "Solo Mode & Mokoko Bootcamp",
+      "window_as_stated": "July",
+      "position": 1
+    },
+    {
+      "item_key": "qol-and-system-updates-july-2025",
+      "title_as_stated": "Quality of Life & System Updates",
+      "window_as_stated": "July",
+      "position": 2
+    },
+    {
+      "item_key": "new-advanced-class-valkyrie",
+      "title_as_stated": "New Advanced Class: Valkyrie",
+      "window_as_stated": "August",
+      "position": 3
+    },
+    {
+      "item_key": "prestige-shop-launch",
+      "title_as_stated": "Prestige Shop Launch",
+      "window_as_stated": "August",
+      "position": 4
+    },
+    {
+      "item_key": "limited-time-raid-event-assault-rimeria",
+      "title_as_stated": "Limited-Time Raid Event: Assault – Rimeria",
+      "window_as_stated": "September",
+      "position": 5
+    },
+    {
+      "item_key": "kazeros-raid-denouement",
+      "title_as_stated": "Kazeros Raid",
+      "window_as_stated": "Q4 2025",
+      "position": 6
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.95,
+  "captured_by": "backfill"
+}

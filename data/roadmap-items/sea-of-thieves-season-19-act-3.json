@@ -1,0 +1,54 @@
+{
+  "id": "sea-of-thieves-season-19-act-3",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 19: Act 3",
+  "item_keys": [
+    "season-19-act-3"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-10-1",
+    "date": "2026-05-10"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-05-10-1",
+      "captured_at": "2026-05-10",
+      "window_as_stated": "Thursday, May 14th",
+      "window_normalised": {
+        "start": "2026-05-14",
+        "end": "2026-05-14",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-05-07"
+      }
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2026-07-05-1",
+      "captured_at": "2026-07-05",
+      "window_as_stated": "Thursday, May 21st",
+      "window_normalised": {
+        "start": "2026-05-21",
+        "end": "2026-05-21",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-05-07"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-07-05-1",
+    "date": "2026-07-05"
+  },
+  "delivery": {
+    "date": "2026-05-21",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.7.2",
+      "archived_url": "https://web.archive.org/web/20260525/https://www.seaofthieves.com/release-notes/3.7.2",
+      "title": "Release Notes 3.7.2 — Season 19: Act 3",
+      "published_at": "2026-05-21",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The May 2026 schedule was edited on 12 May, moving Act 3 from 14 May to 21 May 'to give Last Ship Standing a little more development time'. Both versions are archived, so the slip is in the window history."
+}

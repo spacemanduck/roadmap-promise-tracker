@@ -1,0 +1,42 @@
+{
+  "id": "hunt-showdown-1896-social-features",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "New social features",
+  "item_keys": [
+    "social-features"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2026-03-18",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/devil-s-trail-live-now",
+      "archived_url": "https://web.archive.org/web/20260604064047/https://www.huntshowdown.com/news/devil-s-trail-live-now",
+      "title": "Devil's Trail – Live Now",
+      "published_at": "2026-03-18",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Lobby Codes: invite players directly to your team across PC and console. Whether this is all of the promised 'new social features' is a judgement for the reviewer."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

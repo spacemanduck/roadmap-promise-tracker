@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-shadow-raid-serca",
+  "game_id": "lost-ark",
+  "title_normalised": "Shadow Raid: Serca",
+  "item_keys": [
+    "shadow-raid-serca"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-12-23-1",
+      "captured_at": "2025-12-23",
+      "window_as_stated": "April",
+      "window_normalised": {
+        "start": "2026-04-01",
+        "end": "2026-04-30",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2025-12-23"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "delivery": {
+    "date": "2026-04-15",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/the-shadows-rise",
+      "archived_url": "https://web.archive.org/web/20260622205718/https://www.playlostark.com/en-us/news/articles/the-shadows-rise",
+      "title": "The Shadows Rise Release Notes",
+      "published_at": "2026-04-14",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'the very first Shadow Raid - Serca, Witch Of Pain'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

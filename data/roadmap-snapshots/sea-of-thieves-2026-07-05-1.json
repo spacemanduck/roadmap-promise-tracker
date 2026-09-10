@@ -1,0 +1,24 @@
+{
+  "id": "sea-of-thieves-2026-07-05-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-07-05T18:12:50Z",
+  "url": "https://www.seaofthieves.com/news/this-month-may2026",
+  "archived_url": "https://web.archive.org/web/20260705181250/https://www.seaofthieves.com/news/this-month-may2026",
+  "content_hash": "sha256:0457da776b536752035006c6b9f99fe8c4c6ee0d11db6476422fdb28e9206cae",
+  "source_published_at": "2026-05-07",
+  "covers": {
+    "start": "2026-05-01",
+    "end": "2026-05-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-19-act-3",
+      "title_as_stated": "Sea of Thieves Season 19: Act 3",
+      "window_as_stated": "Thursday, May 21st",
+      "position": 0
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

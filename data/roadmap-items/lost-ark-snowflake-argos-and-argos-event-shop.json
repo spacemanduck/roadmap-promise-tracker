@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-snowflake-argos-and-argos-event-shop",
+  "game_id": "lost-ark",
+  "title_normalised": "Snowflake Argos and Argos Event Shop",
+  "item_keys": [
+    "snowflake-argos-and-argos-event-shop"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-04-16-1",
+      "captured_at": "2026-04-16",
+      "window_as_stated": "May",
+      "window_normalised": {
+        "start": "2026-05-01",
+        "end": "2026-05-31",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-03-20"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "delivery": {
+    "date": "2026-05-13",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/return-of-argos",
+      "archived_url": "https://web.archive.org/web/20260622205718/https://www.playlostark.com/en-us/news/articles/return-of-argos",
+      "title": "Return Of Argos Release Notes",
+      "published_at": "2026-05-13",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

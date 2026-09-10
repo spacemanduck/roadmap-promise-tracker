@@ -1,0 +1,42 @@
+{
+  "id": "sea-of-thieves-season-18-act-2",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Sea of Thieves Season 18: Act 2 (Molten Sands Fortress)",
+  "item_keys": [
+    "season-18-act-2"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-11-1",
+    "date": "2026-05-11"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-05-11-1",
+      "captured_at": "2026-05-11",
+      "window_as_stated": "Thursday, January 22nd",
+      "window_normalised": {
+        "start": "2026-01-22",
+        "end": "2026-01-22",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-01-06"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-05-11-1",
+    "date": "2026-05-11"
+  },
+  "delivery": {
+    "date": "2026-01-22",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.6.1",
+      "archived_url": "https://web.archive.org/web/20260408183321/https://www.seaofthieves.com/release-notes/3.6.1",
+      "title": "Release Notes 3.6.1 — Secrets of the Banished: Act 2",
+      "published_at": "2026-01-22",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hunt-showdown-1896-legends-return-continues",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Legends Return initiative continues",
+  "item_keys": [
+    "legends-return-continues"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2026-05-13",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/introducing-legacy-chronicle",
+      "archived_url": "https://web.archive.org/web/20260805144020/https://www.huntshowdown.com/news/introducing-legacy-chronicle",
+      "title": "Introducing Legacy Chronicle",
+      "published_at": "2026-05-07",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Legacy Chronicles, 'the return of some of our most requested legends', from 13 May 2026."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

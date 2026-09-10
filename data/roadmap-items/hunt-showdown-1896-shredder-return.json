@@ -1,0 +1,42 @@
+{
+  "id": "hunt-showdown-1896-shredder-return",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "Shredder returns, rebalanced",
+  "item_keys": [
+    "shredder-return"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2025-12-16",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/developer-insight-the-making-of-the-shredder",
+      "archived_url": "https://web.archive.org/web/20260401143217/https://www.huntshowdown.com/news/developer-insight-the-making-of-the-shredder",
+      "title": "Developer Insight: The Making of the Shredder",
+      "published_at": "2025-12-16",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "The post says the Shredder was brought back with Post Malone's Murder Circus Encore 'with some changes'; the post is dated 16 December 2025 and the return preceded the 2026 window."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

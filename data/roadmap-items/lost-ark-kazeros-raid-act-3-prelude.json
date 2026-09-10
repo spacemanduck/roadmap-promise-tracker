@@ -1,0 +1,33 @@
+{
+  "id": "lost-ark-kazeros-raid-act-3-prelude",
+  "game_id": "lost-ark",
+  "title_normalised": "Kazeros Raid Act 3 Prelude",
+  "item_keys": [
+    "kazeros-raid-act-3-prelude"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-04-02-1",
+      "captured_at": "2025-04-02",
+      "window_as_stated": "May",
+      "window_normalised": {
+        "start": "2025-05-01",
+        "end": "2025-05-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-04-02"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The May 2025 release page lists the Act 2 Prelude as a prerequisite and the June update lists 'Kazeros Raid: Act 3 Prelude Quest: As One Again' as an existing quest, so the prelude shipped between 21 May and 25 June 2025; no note naming its release has been matched yet. Needs a human check of the full May and June notes."
+}

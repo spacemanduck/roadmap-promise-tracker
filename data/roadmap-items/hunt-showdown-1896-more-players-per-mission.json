@@ -1,0 +1,32 @@
+{
+  "id": "hunt-showdown-1896-more-players-per-mission",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "More players in a single Mission",
+  "item_keys": [
+    "more-players-per-mission"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "A live test began on 3 February 2026 (see the technical-test row). No post read states that the higher player count became permanent."
+}

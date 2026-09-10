@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-new-continent-rimeria",
+  "game_id": "lost-ark",
+  "title_normalised": "New Continent - Rimeria",
+  "item_keys": [
+    "new-continent-rimeria"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-04-02-1",
+      "captured_at": "2025-04-02",
+      "window_as_stated": "May",
+      "window_normalised": {
+        "start": "2025-05-01",
+        "end": "2025-05-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-04-02"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "delivery": {
+    "date": "2025-05-21",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/abyssal-assault-update-announce",
+      "archived_url": "https://web.archive.org/web/20260210115450/https://www.playlostark.com/en-us/news/articles/abyssal-assault-update-announce",
+      "title": "Abyssal Assault Update Arrives May 21",
+      "published_at": "2025-05-20",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

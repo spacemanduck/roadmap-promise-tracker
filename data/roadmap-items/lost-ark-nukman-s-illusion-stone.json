@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-nukman-s-illusion-stone",
+  "game_id": "lost-ark",
+  "title_normalised": "Nukman's Illusion Stone",
+  "item_keys": [
+    "nukman-s-illusion-stone"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-12-23-1",
+      "captured_at": "2025-12-23",
+      "window_as_stated": "January",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-01-31",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2025-12-23"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "delivery": {
+    "date": "2026-01-14",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/thaemine-extreme",
+      "archived_url": "https://web.archive.org/web/20260412034402/https://www.playlostark.com/en-us/game/releases/thaemine-extreme",
+      "title": "Thaemine Extreme — release page",
+      "published_at": "2026-01-13",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Release page has a 'Nukman's Illusion Stone' section."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

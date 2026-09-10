@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-limited-time-raid-event-assault-rimeria",
+  "game_id": "lost-ark",
+  "title_normalised": "Limited-Time Raid Event: Assault – Rimeria",
+  "item_keys": [
+    "limited-time-raid-event-assault-rimeria"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-07-01-1",
+      "captured_at": "2025-07-01",
+      "window_as_stated": "September",
+      "window_normalised": {
+        "start": "2025-09-01",
+        "end": "2025-09-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-07-01"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "delivery": {
+    "date": "2025-09-17",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/rimeria-besieged-release-notes",
+      "archived_url": "https://web.archive.org/web/20260315020459/https://www.playlostark.com/en-us/news/articles/rimeria-besieged-release-notes",
+      "title": "Rimeria Besieged Release Notes",
+      "published_at": "2025-09-16",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Assault: Rimeria'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

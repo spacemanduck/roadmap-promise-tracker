@@ -1,0 +1,32 @@
+{
+  "game_id": "hunt-showdown-1896",
+  "game_name": "Hunt: Showdown 1896",
+  "publisher_id": "crytek",
+  "publisher_name": "Crytek",
+  "roadmap_style": "periodic_posts",
+  "roadmap_urls": [
+    {
+      "url": "https://www.huntshowdown.com/news/roadmap-2026-looking-back-into-the-future-of-hunt-showdown-1896",
+      "kind": "post",
+      "selector": "main"
+    }
+  ],
+  "patch_note_urls": [
+    {
+      "url": "https://www.huntshowdown.com/releasenotes",
+      "kind": "index",
+      "selector": "a[href*='/releasenotes/']",
+      "title_pattern": "update|patch|hotfix|chapter"
+    },
+    {
+      "url": "https://www.huntshowdown.com/news",
+      "kind": "index",
+      "selector": "a[href*='/news/']",
+      "title_pattern": "live now|is live|update|go live|introducing"
+    }
+  ],
+  "capture_notes": "The 2026 roadmap is prose under headings (Fair Foundations, Your Hunter's Legacy, Evolving Hunt, Seasons Events and Experimentation, Technology & The Core Experience). Items are the deliverables the post says will arrive; 'we are exploring' statements (for example combining Consumable and Tool slots) are not extracted. Windows are the bare year unless the post gives more ('very soon', '2026 Lunar New Year'). Deliveries cite dated news posts on huntshowdown.com because the release-notes section does not list every update.",
+  "extraction_model": "claude-haiku-4-5",
+  "tracked_since": "2025-11-08",
+  "why_tracked": "Publishes an annual text roadmap and dated update posts on its own site. Year-long windows make the on-time rate blunt; the useful record is which listed items arrived."
+}

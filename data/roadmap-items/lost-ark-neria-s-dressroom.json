@@ -1,0 +1,32 @@
+{
+  "id": "lost-ark-neria-s-dressroom",
+  "game_id": "lost-ark",
+  "title_normalised": "Neria's Dressroom",
+  "item_keys": [
+    "neria-s-dressroom"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-06-22-1",
+      "captured_at": "2026-06-22",
+      "window_as_stated": "September",
+      "window_normalised": {
+        "start": "2026-09-01",
+        "end": "2026-09-30",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-06-22"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-ark-grid-system",
+  "game_id": "lost-ark",
+  "title_normalised": "Ark Grid System",
+  "item_keys": [
+    "ark-grid-system"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-09-30-1",
+      "captured_at": "2025-09-30",
+      "window_as_stated": "November",
+      "window_normalised": {
+        "start": "2025-11-01",
+        "end": "2025-11-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-09-30"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-09-30-1",
+    "date": "2025-09-30"
+  },
+  "delivery": {
+    "date": "2025-11-19",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/day-of-prophecy-release-notes",
+      "archived_url": "https://web.archive.org/web/20260119203900/https://www.playlostark.com/en-us/news/articles/day-of-prophecy-release-notes",
+      "title": "Day of Prophecy Release Notes",
+      "published_at": "2025-11-18",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

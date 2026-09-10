@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-progression-events-february-2025",
+  "game_id": "lost-ark",
+  "title_normalised": "Progression Events (February 2025)",
+  "item_keys": [
+    "progression-events-february-2025"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2024-12-14-1",
+      "captured_at": "2024-12-14",
+      "window_as_stated": "February 2025",
+      "window_normalised": {
+        "start": "2025-02-01",
+        "end": "2025-02-28",
+        "rule": "month"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "delivery": {
+    "date": "2025-02-26",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/call-of-the-wildsoul",
+      "archived_url": "https://web.archive.org/web/20260616175455/https://www.playlostark.com/en-us/game/releases/call-of-the-wildsoul",
+      "title": "Call of the Wildsoul — release page",
+      "published_at": "2025-02-25",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "The release page lists the South Kurzan Event Powerpass and event shop."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

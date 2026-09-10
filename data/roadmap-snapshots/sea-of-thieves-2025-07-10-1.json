@@ -1,0 +1,60 @@
+{
+  "id": "sea-of-thieves-2025-07-10-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2025-07-10T15:52:04Z",
+  "url": "https://www.seaofthieves.com/news/community-direct-july-2025",
+  "archived_url": "https://web.archive.org/web/20250710155204/https://www.seaofthieves.com/news/community-direct-july-2025",
+  "content_hash": "sha256:82379be73ea31ec751f595755695e42a68b784b2864cabad2ec12eea31694471",
+  "source_published_at": "2025-07-10",
+  "covers": {
+    "start": "2025-07-10",
+    "end": "2026-01-10"
+  },
+  "items_extracted": [
+    {
+      "item_key": "insider-programme-relaunch",
+      "title_as_stated": "Relaunching the Insider Programme",
+      "window_as_stated": "2026",
+      "position": 0
+    },
+    {
+      "item_key": "season-17-launch",
+      "title_as_stated": "Season 17: The Smugglers' League — Smugglers' Hideouts, new loot types and Smugglers' Runs",
+      "window_as_stated": "August",
+      "position": 1
+    },
+    {
+      "item_key": "season-17-heist-event",
+      "title_as_stated": "Season 17 Month 2: a headline live Event in the form of a heist",
+      "window_as_stated": "Month 2 of Season 17",
+      "position": 2
+    },
+    {
+      "item_key": "season-17-skeleton-fort-refresh",
+      "title_as_stated": "Season 17 Month 3: refreshes the Skeleton Fort experience",
+      "window_as_stated": "Month 3 of Season 17",
+      "position": 3
+    },
+    {
+      "item_key": "season-17-community-weekend",
+      "title_as_stated": "Season 17's Community Weekend",
+      "window_as_stated": "early in August",
+      "position": 4
+    },
+    {
+      "item_key": "season-18-launch",
+      "title_as_stated": "Season 18: The Devil's Roar, new Ancient Shrines and expanded Smugglers' League gameplay",
+      "window_as_stated": "no stated window",
+      "position": 5
+    },
+    {
+      "item_key": "custom-servers",
+      "title_as_stated": "Custom Servers, as part of a new subscription model",
+      "window_as_stated": "early 2026",
+      "position": 6
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.85,
+  "captured_by": "backfill"
+}

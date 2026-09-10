@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-wild-soul-advanced-class",
+  "game_id": "lost-ark",
+  "title_normalised": "Wild Soul Advanced Class",
+  "item_keys": [
+    "wild-soul-advanced-class"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2024-12-14-1",
+      "captured_at": "2024-12-14",
+      "window_as_stated": "February 2025",
+      "window_normalised": {
+        "start": "2025-02-01",
+        "end": "2025-02-28",
+        "rule": "month"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2024-12-14-1",
+    "date": "2024-12-14"
+  },
+  "delivery": {
+    "date": "2025-02-26",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/call-of-wildsoul-release-article",
+      "archived_url": "https://web.archive.org/web/20260612074154/https://www.playlostark.com/en-us/news/articles/call-of-wildsoul-release-article",
+      "title": "Call of the Wildsoul Release Notes",
+      "published_at": "2025-02-25",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Shipped as 'Wildsoul'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

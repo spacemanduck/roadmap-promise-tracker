@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-tier-3-progression-changes",
+  "game_id": "lost-ark",
+  "title_normalised": "Tier 3 progression changes",
+  "item_keys": [
+    "tier-3-progression-changes"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-12-23-1",
+      "captured_at": "2025-12-23",
+      "window_as_stated": "February",
+      "window_normalised": {
+        "start": "2026-02-01",
+        "end": "2026-02-28",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2025-12-23"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-12-23-1",
+    "date": "2025-12-23"
+  },
+  "delivery": {
+    "date": "2026-02-04",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/guardians-rage",
+      "archived_url": "https://web.archive.org/web/20260817173330/https://www.playlostark.com/en-us/game/releases/guardians-rage",
+      "title": "Guardians' Rage — release page",
+      "published_at": "2026-02-03",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Release page: 'Progression System Revamp ... for Tier 3 and below'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

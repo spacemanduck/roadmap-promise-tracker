@@ -1,0 +1,27 @@
+{
+  "game_id": "sea-of-thieves",
+  "game_name": "Sea of Thieves",
+  "publisher_id": "rare",
+  "publisher_name": "Rare (Microsoft)",
+  "roadmap_style": "periodic_posts",
+  "roadmap_urls": [
+    {
+      "url": "https://www.seaofthieves.com/news",
+      "kind": "post",
+      "selector": "main",
+      "note": "Two document kinds: 'Community Direct' summaries (about every six months) and 'This Month in Sea of Thieves' schedules (monthly). The weekly capture reads the newest of each linked from the news index."
+    }
+  ],
+  "patch_note_urls": [
+    {
+      "url": "https://www.seaofthieves.com/release-notes",
+      "kind": "index",
+      "selector": "a[href*='/release-notes/']",
+      "title_pattern": "."
+    }
+  ],
+  "capture_notes": "Monthly schedule posts state exact dates ('Thursday, March 5th') and are edited in place when a date moves, with an 'Update <date>:' note at the top; where the pre-edit version is not archived the slip is recorded in the item notes rather than the window history. Community Direct items use looser windows ('early 2026', 'later this year'). Only game-content items are extracted from monthly posts. Release-notes pages carry no date in the body; the delivery date is the launch date the publisher stated in the monthly schedule.",
+  "extraction_model": "claude-haiku-4-5",
+  "tracked_since": "2025-07-10",
+  "why_tracked": "Publishes a six-monthly Community Direct with forward promises and a monthly schedule with exact dates, and versioned release notes on its own site. Dates that move are edited into the schedule post with a note, which makes slips visible."
+}

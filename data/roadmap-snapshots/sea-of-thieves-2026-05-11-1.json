@@ -1,0 +1,30 @@
+{
+  "id": "sea-of-thieves-2026-05-11-1",
+  "game_id": "sea-of-thieves",
+  "captured_at": "2026-05-11T08:44:06Z",
+  "url": "https://www.seaofthieves.com/news/this-month-january2026",
+  "archived_url": "https://web.archive.org/web/20260511084406/https://www.seaofthieves.com/news/this-month-january2026",
+  "content_hash": "sha256:b69dd827a6a3d979e4475c6e7229d74371bdea7ee4cbd7229a34619ed227b4d8",
+  "source_published_at": "2026-01-06",
+  "covers": {
+    "start": "2026-01-01",
+    "end": "2026-01-31"
+  },
+  "items_extracted": [
+    {
+      "item_key": "season-18-act-2",
+      "title_as_stated": "Sea of Thieves Season 18: Act 2 (Molten Sands Fortress)",
+      "window_as_stated": "Thursday, January 22nd",
+      "position": 0
+    },
+    {
+      "item_key": "season-18-community-weekend",
+      "title_as_stated": "Season 18 Community Weekend",
+      "window_as_stated": "Saturday, January 31st",
+      "position": 1
+    }
+  ],
+  "extraction_model": "claude-fable-5-1",
+  "extraction_confidence": 0.9,
+  "captured_by": "backfill"
+}

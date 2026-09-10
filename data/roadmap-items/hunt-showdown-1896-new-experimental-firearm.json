@@ -1,0 +1,42 @@
+{
+  "id": "hunt-showdown-1896-new-experimental-firearm",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "New experimental firearm (primal, destructive force)",
+  "item_keys": [
+    "new-experimental-firearm"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": {
+    "date": "2026-01-07",
+    "source": {
+      "url": "https://www.huntshowdown.com/news/introducing-flame-rifle",
+      "archived_url": "https://web.archive.org/web/20260204105525/https://www.huntshowdown.com/news/introducing-flame-rifle",
+      "title": "Introducing Flame Rifle",
+      "published_at": "2026-01-07",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "The Flame Rifle, a new Scarce Weapon released with the Murder Circus Encore event."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sea-of-thieves-season-20-community-weekend",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 20 Community Weekend",
+  "item_keys": [
+    "season-20-community-weekend"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-18-1",
+    "date": "2026-06-18"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-06-18-1",
+      "captured_at": "2026-06-18",
+      "window_as_stated": "Friday, June 26th",
+      "window_normalised": {
+        "start": "2026-06-26",
+        "end": "2026-06-26",
+        "rule": "exact_date",
+        "reading_note": "year 2026 inferred from publication date 2026-06-05"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-06-18-1",
+    "date": "2026-06-18"
+  },
+  "delivery": {
+    "date": "2026-06-26",
+    "source": {
+      "url": "https://www.seaofthieves.com/news/this-month-june-2026",
+      "archived_url": "https://web.archive.org/web/20260618185445/https://www.seaofthieves.com/news/this-month-june-2026",
+      "title": "This Month in Sea of Thieves: June 2026",
+      "published_at": "2026-06-05",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Dated 26–29 June in the publisher's June schedule."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

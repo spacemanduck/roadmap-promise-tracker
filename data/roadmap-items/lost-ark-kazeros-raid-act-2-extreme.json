@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-kazeros-raid-act-2-extreme",
+  "game_id": "lost-ark",
+  "title_normalised": "Kazeros Raid: Act 2 Extreme",
+  "item_keys": [
+    "kazeros-raid-act-2-extreme"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-06-22-1",
+      "captured_at": "2026-06-22",
+      "window_as_stated": "August",
+      "window_normalised": {
+        "start": "2026-08-01",
+        "end": "2026-08-31",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-06-22"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "delivery": {
+    "date": "2026-08-11",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/the-bitter-cold-release-notes",
+      "archived_url": "https://web.archive.org/web/20260812200420/https://www.playlostark.com/en-us/news/articles/the-bitter-cold-release-notes",
+      "title": "The Bitter Cold Release Notes",
+      "published_at": "2026-08-11",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Notes dated 11 August say 'The August update arrives in Arkesia'; no separate go-live date stated."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

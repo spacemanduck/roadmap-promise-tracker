@@ -1,0 +1,44 @@
+{
+  "id": "lost-ark-server-merge",
+  "game_id": "lost-ark",
+  "title_normalised": "Server Merge",
+  "item_keys": [
+    "server-merge"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-06-22-1",
+      "captured_at": "2026-06-22",
+      "window_as_stated": "August",
+      "window_normalised": {
+        "start": "2026-08-01",
+        "end": "2026-08-31",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-06-22"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "delivery": {
+    "date": "2026-08-26",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/2026-server-merge-details",
+      "archived_url": "https://web.archive.org/web/20260812200420/https://www.playlostark.com/en-us/news/articles/2026-server-merge-details",
+      "title": "2026 Server Merge Details",
+      "published_at": "2026-08-03",
+      "kind": "publisher_post"
+    },
+    "matched_by": "script",
+    "note": "Phase 1 merges began 26 August; phase 2 was moved from 2 September to 9 September (Team Update, 31 August 2026)."
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "Announced for August; phase 1 ran on 26 August 2026 and phase 2 was moved from 2 September to 9 September after a 35-hour downtime (publisher's Team Update, 31 August 2026)."
+}

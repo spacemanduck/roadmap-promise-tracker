@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-summer-events-and-cosmetics",
+  "game_id": "lost-ark",
+  "title_normalised": "Summer Events and Cosmetics",
+  "item_keys": [
+    "summer-events-and-cosmetics"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-06-22-1",
+      "captured_at": "2026-06-22",
+      "window_as_stated": "July",
+      "window_normalised": {
+        "start": "2026-07-01",
+        "end": "2026-07-31",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-06-22"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-06-22-1",
+    "date": "2026-06-22"
+  },
+  "delivery": {
+    "date": "2026-07-15",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/summer-of-extremes",
+      "archived_url": "https://web.archive.org/web/20260902081221/https://www.playlostark.com/en-us/news/articles/summer-of-extremes",
+      "title": "Summer of Extremes Release Notes",
+      "published_at": "2026-07-15",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'the Summer Night Festival, swimwear skins'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

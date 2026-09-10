@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-k-pop-skins",
+  "game_id": "lost-ark",
+  "title_normalised": "K-Pop Skins",
+  "item_keys": [
+    "k-pop-skins"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-04-02-1",
+      "captured_at": "2025-04-02",
+      "window_as_stated": "May",
+      "window_normalised": {
+        "start": "2025-05-01",
+        "end": "2025-05-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-04-02"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "delivery": {
+    "date": "2025-05-21",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/abyssal-assault",
+      "archived_url": "https://web.archive.org/web/20260615081728/https://www.playlostark.com/en-us/game/releases/abyssal-assault",
+      "title": "Abyssal Assault — release page",
+      "published_at": "2025-05-20",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Release page: 'K-Pop Idol Collection' in Neria's Wardrobe."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

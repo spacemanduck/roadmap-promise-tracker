@@ -1,0 +1,61 @@
+{
+  "id": "sea-of-thieves-season-18-launch",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season 18 launch (The Devil's Roar)",
+  "item_keys": [
+    "season-18-launch"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2025-07-10-1",
+    "date": "2025-07-10"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2025-07-10-1",
+      "captured_at": "2025-07-10",
+      "window_as_stated": "no stated window",
+      "window_normalised": null
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2026-01-26-1",
+      "captured_at": "2026-01-26",
+      "window_as_stated": "December",
+      "window_normalised": {
+        "start": "2025-12-01",
+        "end": "2025-12-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-11-07"
+      }
+    },
+    {
+      "snapshot_id": "sea-of-thieves-2026-03-19-1",
+      "captured_at": "2026-03-19",
+      "window_as_stated": "Thursday, December 11th",
+      "window_normalised": {
+        "start": "2025-12-11",
+        "end": "2025-12-11",
+        "rule": "exact_date",
+        "reading_note": "year 2025 inferred from publication date 2025-12-04"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-03-19-1",
+    "date": "2026-03-19"
+  },
+  "delivery": {
+    "date": "2025-12-11",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.6.0",
+      "archived_url": "https://web.archive.org/web/20260511084409/https://www.seaofthieves.com/release-notes/3.6.0",
+      "title": "Release Notes 3.6.0 — Secrets of the Banished",
+      "published_at": "2025-12-11",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as 'Secrets of the Banished' — the Eternal Guard and Sanctuaries of the Banished in The Devil's Roar."
+  },
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "The November 2025 schedule says Season 18 'will now be arriving in December' and links a 'Season 18 Delayed' developer update of 31 October 2025. The earlier stated window is not in any archived post read, so the slip is recorded here rather than in the window history."
+}

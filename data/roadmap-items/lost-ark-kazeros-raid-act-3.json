@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-kazeros-raid-act-3",
+  "game_id": "lost-ark",
+  "title_normalised": "Kazeros Raid Act 3",
+  "item_keys": [
+    "kazeros-raid-act-3"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-04-02-1",
+      "captured_at": "2025-04-02",
+      "window_as_stated": "June",
+      "window_normalised": {
+        "start": "2025-06-01",
+        "end": "2025-06-30",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-04-02"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-04-02-1",
+    "date": "2025-04-02"
+  },
+  "delivery": {
+    "date": "2025-06-04",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/kazeros-raid-act-3-release-notes",
+      "archived_url": "https://web.archive.org/web/20260113154906/https://www.playlostark.com/en-us/news/articles/kazeros-raid-act-3-release-notes",
+      "title": "Abyssal Assault: Kazeros Raid Act 3 Release Notes",
+      "published_at": "2025-06-03",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Notes published 3 June for the 4 June update."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

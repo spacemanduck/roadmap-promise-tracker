@@ -1,0 +1,38 @@
+{
+  "id": "sea-of-thieves-season-pass-50-levels",
+  "game_id": "sea-of-thieves",
+  "title_normalised": "Season Pass: 50 levels and a star prize",
+  "item_keys": [
+    "season-pass-50-levels"
+  ],
+  "first_seen": {
+    "snapshot_id": "sea-of-thieves-2026-04-03-1",
+    "date": "2026-04-03"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "sea-of-thieves-2026-04-03-1",
+      "captured_at": "2026-04-03",
+      "window_as_stated": "no stated window",
+      "window_normalised": null
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "sea-of-thieves-2026-04-03-1",
+    "date": "2026-04-03"
+  },
+  "delivery": {
+    "date": "2026-06-18",
+    "source": {
+      "url": "https://www.seaofthieves.com/release-notes/3.8.0",
+      "archived_url": "https://web.archive.org/web/20260721165731/https://www.seaofthieves.com/release-notes/3.8.0",
+      "title": "Release Notes 3.8.0 — Custom Seas",
+      "published_at": "2026-06-18",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Named as '50 new Season Pass levels to climb'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

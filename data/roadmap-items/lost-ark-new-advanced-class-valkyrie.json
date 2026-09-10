@@ -1,0 +1,42 @@
+{
+  "id": "lost-ark-new-advanced-class-valkyrie",
+  "game_id": "lost-ark",
+  "title_normalised": "New Advanced Class: Valkyrie",
+  "item_keys": [
+    "new-advanced-class-valkyrie"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2025-07-01-1",
+      "captured_at": "2025-07-01",
+      "window_as_stated": "August",
+      "window_normalised": {
+        "start": "2025-08-01",
+        "end": "2025-08-31",
+        "rule": "month",
+        "reading_note": "year 2025 inferred from publication date 2025-07-01"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2025-07-01-1",
+    "date": "2025-07-01"
+  },
+  "delivery": {
+    "date": "2025-08-20",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/news/articles/rise-of-the-valkyrie-release-notes",
+      "archived_url": "https://web.archive.org/web/20260316222954/https://www.playlostark.com/en-us/news/articles/rise-of-the-valkyrie-release-notes",
+      "title": "Rise of the Valkyrie Release Notes",
+      "published_at": "2025-08-19",
+      "kind": "patch_note"
+    },
+    "matched_by": "script"
+  },
+  "verified_by": null,
+  "verified_at": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "lost-ark-shadow-event-shop",
+  "game_id": "lost-ark",
+  "title_normalised": "Shadow Event Shop",
+  "item_keys": [
+    "shadow-event-shop"
+  ],
+  "first_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "lost-ark-2026-04-16-1",
+      "captured_at": "2026-04-16",
+      "window_as_stated": "April",
+      "window_normalised": {
+        "start": "2026-04-01",
+        "end": "2026-04-30",
+        "rule": "month",
+        "reading_note": "year 2026 inferred from publication date 2026-03-20"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "lost-ark-2026-04-16-1",
+    "date": "2026-04-16"
+  },
+  "delivery": {
+    "date": "2026-04-15",
+    "source": {
+      "url": "https://www.playlostark.com/en-us/game/releases/the-shadows-rise",
+      "archived_url": "https://web.archive.org/web/20260817172945/https://www.playlostark.com/en-us/game/releases/the-shadows-rise",
+      "title": "The Shadows Rise — release page",
+      "published_at": "2026-04-14",
+      "kind": "patch_note"
+    },
+    "matched_by": "script",
+    "note": "Release page: 'SHADOW EVENT SHOP ... April 15, 2026 - June 10, 2026'."
+  },
+  "verified_by": null,
+  "verified_at": null
+}

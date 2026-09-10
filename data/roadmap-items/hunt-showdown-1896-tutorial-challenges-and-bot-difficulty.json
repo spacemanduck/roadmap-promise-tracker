@@ -1,0 +1,32 @@
+{
+  "id": "hunt-showdown-1896-tutorial-challenges-and-bot-difficulty",
+  "game_id": "hunt-showdown-1896",
+  "title_normalised": "New tutorial challenges and scalable bot difficulty",
+  "item_keys": [
+    "tutorial-challenges-and-bot-difficulty"
+  ],
+  "first_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "window_history": [
+    {
+      "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+      "captured_at": "2025-11-08",
+      "window_as_stated": "2026",
+      "window_normalised": {
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "rule": "year"
+      }
+    }
+  ],
+  "last_seen": {
+    "snapshot_id": "hunt-showdown-1896-2025-11-08-1",
+    "date": "2025-11-08"
+  },
+  "delivery": null,
+  "verified_by": null,
+  "verified_at": null,
+  "notes": "Update 2.8 (9 June 2026) lists 'Shooting range and tutorial updates' and Hunter Bot behaviour changes under New Player Onboarding; it does not name new tutorial challenges or scalable bot difficulty, so no delivery is recorded."
+}
