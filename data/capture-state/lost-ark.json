@@ -1,5 +1,6 @@
 {
   "game_id": "lost-ark",
+  "last_capture_run": "2026-09-22T10:26:49.417Z",
   "seen_patch_note_urls": [
     "https://www.playlostark.com/en-us/news/articles/winter-soloist-release-news-post",
     "https://www.playlostark.com/en-us/news/articles/frosty-fate-update-article",
@@ -32,6 +33,19 @@
     "https://www.playlostark.com/en-us/game/releases/the-twilight-isle",
     "https://www.playlostark.com/en-us/news/articles/summer-of-extremes",
     "https://www.playlostark.com/en-us/news/articles/the-bitter-cold-release-notes",
-    "https://www.playlostark.com/en-us/news/articles/2026-server-merge-details"
-  ]
+    "https://www.playlostark.com/en-us/news/articles/2026-server-merge-details",
+    "https://www.playlostark.com/en-us/news/articles/dimensions-unbound-release-notes?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/the-bitter-cold-release-notes?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/the-twilight-isle?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/ends-of-the-abyss?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/guardians-rage-release-notes?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/thaemine-extreme-release-notes?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/winters-wrath-release-notes?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/day-of-prophecy-release-notes?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/fog-of-diaspero?tag=release-notes",
+    "https://www.playlostark.com/en-us/news/articles/2026-server-merge-details?tag=updates",
+    "https://www.playlostark.com/en-us/news/articles/kazeros-the-first-update?tag=updates",
+    "https://www.playlostark.com/en-us/news/articles/team-update-kazeros-release-plans?tag=updates"
+  ],
+  "last_match_run": "2026-09-22T10:27:01.145Z"
 }
