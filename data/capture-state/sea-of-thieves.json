@@ -1,5 +1,6 @@
 {
   "game_id": "sea-of-thieves",
+  "last_capture_run": "2026-10-13T13:02:49.216Z",
   "seen_patch_note_urls": [
     "https://www.seaofthieves.com/release-notes/3.5.0",
     "https://www.seaofthieves.com/release-notes/3.5.1",
@@ -16,5 +17,6 @@
     "https://www.seaofthieves.com/release-notes/3.7.2",
     "https://www.seaofthieves.com/release-notes/3.8.0",
     "https://www.seaofthieves.com/news/this-month-june-2026"
-  ]
+  ],
+  "last_match_run": "2026-10-13T13:02:58.028Z"
 }
